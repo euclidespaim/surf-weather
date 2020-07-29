@@ -46,13 +46,14 @@ body{
 
 .weather-container{
     width: 300px;
-    height: 260px;
-    background-color: #F4F9FF;
+    height: 360px;
+    background-color: #fff;
 }
 
 .weather-icon{
     width: 300px;
-    height: 128px;
+    height: 180px;
+    background-color: #000;
 }
 
 .weather-icon img{
@@ -63,6 +64,7 @@ body{
 .temperature-value{
     width: 300px;
     height:60px;
+    padding-top: 10px;
 }
 
 .temperature-value p{
