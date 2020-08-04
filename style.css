@@ -100,7 +100,6 @@ body{
 .location{
     
 }
-
 .location p{
     margin: 0;
     padding: 0;
@@ -108,6 +107,57 @@ body{
     text-align: center;
     font-size: 0.8em;
 }
-
-
+.parent-wave{
+    padding: 3% 0 0 0;
+    display: flex;
+    justify-content: center;
+}
+.wave-height{
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 33%;
+    color: #293251;
+    text-align: center;
+}
+.wave-height img{
+    max-width:50%;
+    height:auto;
+}
+.wave-height p{
+    margin: 0;
+    padding: 0;
+}
+.tide-direction{
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 33%;
+    color: #293251;
+    text-align: center;
+}
+.tide-direction img{
+    max-width:50%;
+    height:auto;
+}
+.tide-direction p{
+    margin: 0;
+    padding: 0;
+}
+.wind-direction {
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 33%;
+    color: #293251;
+    text-align: center;
+}
+.wind-direction img{
+    max-width:50%;
+    height:auto;
+}
+.wind-direction p{
+    margin: 0;
+    padding: 0;
+}
 
