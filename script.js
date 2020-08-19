@@ -1,5 +1,4 @@
 // Code Github: https://github.com/euclidespaim/surf-weather
-// api key: 62a23ddd825e4bdf8d3201942201407
 
 // SELECT ELEMENTS
 const iconElement = document.querySelector(".weather-icon");
