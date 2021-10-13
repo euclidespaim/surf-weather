@@ -18,8 +18,8 @@ weather.temperature = {
 }
 
 // API KEY
-const key = " ";
-const geokey = " ";
+const key = "*****";
+const geokey = "******";
 
 // CHECK IF BROWSER SUPPORTS GEOLOCATION
 if('geolocation' in navigator){
