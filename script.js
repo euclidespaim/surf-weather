@@ -87,15 +87,6 @@ function getWeather(latitude, longitude){
         .then(function(){
             displayWeather();
         });
-
-    // //Request xml from mapQuestApi
-    // const request = new XMLHttpRequest();
-    // request.open("GET", geoapi, false);
-    // request.send();
-    // const xml = request.responseXML;
-    // weather.city = xml.getElementsByTagName("adminArea5")[0].textContent;
-    // weather.country = xml.getElementsByTagName("adminArea1")[0].textContent;
-
 }
 
 // DISPLAY WEATHER TO UI
